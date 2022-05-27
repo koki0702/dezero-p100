@@ -1,7 +1,7 @@
 {
   "main.css": "/dezero-p100/static/css/main.05d10015.chunk.css",
-  "main.js": "/dezero-p100/static/js/main.ec277544.chunk.js",
-  "main.js.map": "/dezero-p100/static/js/main.ec277544.chunk.js.map",
+  "main.js": "/dezero-p100/static/js/main.f57dcfb4.chunk.js",
+  "main.js.map": "/dezero-p100/static/js/main.f57dcfb4.chunk.js.map",
   "static/js/1.d9208a3d.chunk.js": "/dezero-p100/static/js/1.d9208a3d.chunk.js",
   "static/js/1.d9208a3d.chunk.js.map": "/dezero-p100/static/js/1.d9208a3d.chunk.js.map",
   "runtime~main.js": "/dezero-p100/static/js/runtime~main.1562137e.js",
@@ -10,6 +10,6 @@
   "static/media/c1_1.png": "/dezero-p100/static/media/c1_1.fc452a02.png",
   "static/css/main.05d10015.chunk.css.map": "/dezero-p100/static/css/main.05d10015.chunk.css.map",
   "index.html": "/dezero-p100/index.html",
-  "precache-manifest.a995d613dea264808fb32a7e2b6ac92e.js": "/dezero-p100/precache-manifest.a995d613dea264808fb32a7e2b6ac92e.js",
+  "precache-manifest.71d1c0f68b525bb1880759853374fcdf.js": "/dezero-p100/precache-manifest.71d1c0f68b525bb1880759853374fcdf.js",
   "service-worker.js": "/dezero-p100/service-worker.js"
 }
